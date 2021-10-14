@@ -1,5 +1,3 @@
-print("NAME- Vipul Chauhan \nSECTION- E \nSTUDENT ID- 20011016")
-
 list=[]
 sum=0
 n=int(input("Enter the number of elements you want to enter in a list :"))
