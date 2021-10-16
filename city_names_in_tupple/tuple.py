@@ -1,5 +1,3 @@
-print("NAME- Vipul Chauhan \nSECTION- E \nSTUDENT ID- 20011016")
-
 t=tuple()
 n=int(input("Enter the number of cities you want to enter in the tuple : "))
 
