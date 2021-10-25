@@ -1,0 +1,7 @@
+f=input("Enter the file path to count the number of words in it :")
+file=open(f,'r')
+data=file.read()
+print(data)
+count=data.split()
+file.close()
+print("Number of words in file : {}".format(len(count)))
