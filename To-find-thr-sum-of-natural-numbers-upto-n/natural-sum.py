@@ -1,4 +1,4 @@
-num=int(input("Enter the number uto which you want to find the sum : "))
+num=int(input("Enter the number upto which you want to find the sum : "))
 if num < 0:
    print("Enter a positive number")
 else:
