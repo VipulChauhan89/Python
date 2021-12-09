@@ -1,6 +1,5 @@
 #Program to check if the number is armstrong number or not
-print("Enter the number : ")
-num=int(input())
+num=int(input("Enter the number : "))
 if(num>=100 and num<=999):
     temp=num
     sum=0
