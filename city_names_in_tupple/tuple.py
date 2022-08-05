@@ -5,5 +5,5 @@ print("Enter the ",n," cities")
 for i in range(0,n):
     ch=input()
     t=t+(ch,)
-    
+
 print(t)
